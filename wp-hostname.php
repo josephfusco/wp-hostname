@@ -1,12 +1,13 @@
 <?php
 /**
- * Plugin Name:    WP Hostname
- * Description:    Show network hostname in the admin toolbar.
- * Version:        1.0
- * Author:         Joseph Fusco
- * Author URI:     http://josephfus.co/
- * License:        GPLv2 or later
- * License URI:    http://www.gnu.org/licenses/gpl-2.0.html
+ * Plugin Name:        WP Hostname
+ * Description:        Show network hostname in the admin toolbar.
+ * Version:            1.0
+ * Author:             Joseph Fusco
+ * Author URI:         https://josephfus.co/
+ * License:            GPLv2 or later
+ * License URI:        http://www.gnu.org/licenses/gpl-2.0.html
+ * GitHub Plugin URI:  josephfusco/wp-hostname
  */
 
 if ( ! defined( 'ABSPATH' ) ) {
